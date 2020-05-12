@@ -1,0 +1,7 @@
+do touch account.txt transaction.txt bank.txt
+do make account done
+do ./Test> account.txt
+do make bank
+do ./Test>bank.txt
+do make transaction
+do ./Test>transaction.txt
